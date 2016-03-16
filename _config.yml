@@ -1,2 +1,3 @@
 name: FOAR705 Blog
-	markdown: kramdown
+markdown: kramdown
+permalink: /blog/:2016/:03/:16/:hello_world
